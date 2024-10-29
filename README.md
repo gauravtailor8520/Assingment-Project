@@ -1,4 +1,4 @@
-AI Chat History Analyzer and AI Text Generation App
+Task Assignment: Develop a Model to Analyze Chat History and Generate MCQs/Articles
 ====================================================
 
 This repository contains two Streamlit applications that use the T5 model for generating multiple-choice questions (MCQs) from chat history and for various text generation tasks such as structured answers, articles, and question generation from passages.
